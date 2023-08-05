@@ -1,4 +1,4 @@
-### Hi there 👋 My name is Eugene Dolgov, I'm a junior backend developer
+### Hi there 👋 My name is Eugene Dolgov, I'm a junior backend developer. Here you can see some of my junior Python projects.
 ____
 ###
 <!--
